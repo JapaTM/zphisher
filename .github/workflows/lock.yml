@@ -1,6 +1,6 @@
 name: 'Lock Closed Issues'
 
-on:
+on:https://www.instagram.com/erica_loro/?igsh=MXYxZXdtbjB2aHkzdg%3D%3D
   schedule:
     - cron: '0 0 * * 0' # Every Sunday
   workflow_dispatch:
